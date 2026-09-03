@@ -1,11 +1,11 @@
-# 运维部署类
+# 运维部署技能
 
+## 覆盖范围
 - Docker / 容器编排
-- 服务器管理、网络
+- 服务器、网络、路由器
 - CI/CD、监控告警
 
-## 建议命名
-
-- `docker-xxx`：容器相关
-- `server-xxx`：服务器相关
-- `ci-xxx`：CI/CD 相关
+## 命名建议
+- `docker-xxx`：容器
+- `server-xxx`：服务器
+- `ci-xxx`：CI/CD
